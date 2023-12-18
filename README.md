@@ -9,4 +9,4 @@ terdapat beberapa kendala yang ada diantaranya
 1. Indikasi prefix awal berjumlah 3 huruf (men, mem, ber, dsb)
 2. harus ada metode yang dapat mengambil kata baku dari suatu kata
 3. kata baku != dengan text yang di indikasi terdapat prefix
-4. hubungan antara prefix beserta aturan harus diteliti lebih lanjut
+4. hubungan antara prefix, fonem pembacaan beserta aturan harus diteliti lebih lanjut
